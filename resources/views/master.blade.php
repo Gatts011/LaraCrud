@@ -8,8 +8,8 @@
 </head>
 <body>
 
-    <h1>1piece</h1>
-    <h2>Sell your 1-of-a-kind pieces</h2>
+    <h1>LaraCrud</h1>
+    <h2>Boilerplate Laravel Crud Aplication</h2>
     
 @yield('content')
 
