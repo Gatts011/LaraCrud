@@ -1,2 +1,1 @@
-Run 'composer install' then
-Run 'php atrisan key:generate'
+Run 'composer install' then 'php atrisan key:generate'
