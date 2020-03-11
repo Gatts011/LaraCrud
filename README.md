@@ -1,1 +1,5 @@
-Run 'composer install' then 'php atrisan key:generate'
+Run 'composer install; php artisan key:generate'
+
+then
+
+thank me later
